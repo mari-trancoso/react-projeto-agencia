@@ -13,5 +13,5 @@ Principais ferramentas utilizadas:
 - Filtros de busca e ordenação
 - Props
 
-Se você quer deixar este planeta entre [AQUI] (<https://agenciamntviagensespaciais.surge.sh/>) e compre a sua viagem!
+Se você quer deixar este planeta entre <https://agenciamntviagensespaciais.surge.sh/> e compre a sua viagem!
 
